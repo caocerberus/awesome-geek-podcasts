@@ -96,6 +96,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Portuguese
 
+* [CocaTech](https://cocatech.com.br) - podcast diário sobre tecnologia desde um ponto de vista Apple.
 * [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
